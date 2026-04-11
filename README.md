@@ -61,16 +61,6 @@ Source: https://www.kaggle.com/datasets/kazanova/sentiment140
 | The weather today is okay I guess | NEUTRAL | 93% |
 | Not sure how I feel about this | NEUTRAL | 98% |
 
----
 
-## How to Run
 
-1. Open `twitter_sentiment_ann.ipynb` in Google Colab
-2. Configure Kaggle credentials in Cell 1
-3. Run all cells in order
 
----
-
-## Author
-
-Ahmed Ali — https://github.com/AhmedAli58
